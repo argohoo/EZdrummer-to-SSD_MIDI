@@ -22,15 +22,20 @@ DEFAULT_MAPPING = {
     45:43, #t3
     43:41, #t4
     51:52, #ride
-    60:65 , #hh-open
+    60:65, #hh-open
+    18:26, #hh-open
     62:60, #hh-semi open
     63:66, #hh-closed
-    21: 22, #hh-closed
+    21:22, #hh-closed
     25:68, #more hh
     24:61, #hh
     55:50, #splash
     49:55, #crash L
     57:57, #crash R
+    27:50, #china/splash
+    28:50,
+    29:31,
+    30:55,
     52:31 #china
     }
 
